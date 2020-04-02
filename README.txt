@@ -2,6 +2,8 @@ personal website project
 
 Yiftah Szoke- 204646913
 
+The website is about my grandmother-Hanna.
+
 1. Push on the playlist to see how to wash your hands right.
 
 2. Scan the QR code to enter the website.
